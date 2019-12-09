@@ -1,1 +1,4 @@
-class Cash 
+class CashRegister
+  attr_acessor 
+  
+end
