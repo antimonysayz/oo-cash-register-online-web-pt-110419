@@ -37,5 +37,6 @@ class CashRegister
   else 
     @total -= (@total)
   end
+end
 
 end
