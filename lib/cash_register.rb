@@ -35,7 +35,7 @@ class CashRegister
     if @quantity = 1
     @total -= (@price)
   else 
-    @total -= (@total) * (@quantity)
+    @total -= (@total) * (2)
   end
 end
 
